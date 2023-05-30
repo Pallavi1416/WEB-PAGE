@@ -1,0 +1,42 @@
+table, th, td {
+  border: 1px solid;
+}
+h2 {
+  color: #69042b;
+  text-align: center;
+}
+h2 {
+  text-decoration-line: underline;
+  text-decoration-thickness: 5px;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+p {
+  color: lightblue;
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {background-color:powderblue;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color:black;
+  color: white;
+}
+div. {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+
+div. {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
